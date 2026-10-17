@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c45ec99260b7ac3d80cef27f",
+  "owner": "fdtuafv7t",
+  "repo": "page-56f043105f3f29b71ee7b9a9",
+  "title": "Tim",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "56f043105f3f29b71ee7b9a9",
+      "a": "Tim",
+      "b": "",
+      "entity": "Tim",
+      "brand": "Tim",
+      "separator": "",
+      "path": "index.html",
+      "hash": "761730e3a20e16a4fb99a3f9cb3fa2e131c07309bc184d8e7e34ddfab234c17c",
+      "content": {
+        "keyword1": "Tim",
+        "keyword2": "",
+        "primary_entity": "Tim",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Tim 是一本用来整理时间的小本子：通过周计划、专注记录和回顾复盘，把每天的零散任务拼成看得见的进度。",
+          "AI_DESCRIPTION": "Tim 是一本用来整理时间的小本子：通过周计划、专注记录和回顾复盘，把每天的零散任务拼成看得见的进度。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#f4ecd8;color:#1f2a36;font-family:Georgia,\"Times New Roman\",\"Songti SC\",serif;line-height:1.7}\na{color:#0d3b66;text-decoration:none;border-bottom:1px solid rgba(13,59,102,.25)}\na:hover{border-bottom-color:#c08428;color:#c08428}\n.wrap{max-width:1180px;margin:0 auto;padding:0 28px}\n.crumbs{font-size:13px;color:#5a6b7a;padding:22px 0 14px;border-bottom:1px solid #e2d6b6;letter-spacing:.04em}\n.crumbs span{margin:0 8px;color:#b89a5a}\n.crumbs a{border-bottom:none}\n.toc{display:flex;flex-wrap:wrap;gap:22px;font-size:14px;padding:14px 0 0;margin-bottom:34px;border-bottom:1px solid #e2d6b6;padding-bottom:24px}\n.toc a{border-bottom:none;color:#0d3b66;font-weight:600}\n.toc a:before{content:\"§ \";color:#c08428}\n.hero{display:grid;grid-template-columns:1.05fr .9fr .9fr;gap:28px;padding:36px 0 52px;border-bottom:2px solid #1f2a36}\n.hero h1{font-size:54px;line-height:1.05;letter-spacing:-.01em;color:#0d3b66;margin-bottom:18px}\n.hero .kicker{font-size:13px;letter-spacing:.32em;color:#c08428;text-transform:uppercase;margin-bottom:18px}\n.hero p.lead{font-size:17px;color:#3a4a5a}\n.hero .col{border-left:3px solid #c08428;padding-left:18px}\n.hero .col h3{font-size:14px;letter-spacing:.22em;color:#0d3b66;text-transform:uppercase;margin-bottom:10px}\n.hero .col p{font-size:13.5px;color:#2f3e4d}\n.hero blockquote{margin-top:8px;font-style:italic;color:#1f2a36;font-size:18px;border-left:none;padding-left:0}\n.hero blockquote cite{display:block;margin-top:8px;font-style:normal;font-size:13px;color:#5a6b7a}\nsection{padding:64px 0;border-bottom:1px solid #e2d6b6}\nsection h2{font-size:34px;color:#0d3b66;margin-bottom:10px;letter-spacing:-.01em}\nsection h2 small{display:block;font-size:13px;letter-spacing:.28em;color:#c08428;text-transform:uppercase;margin-bottom:14px;font-weight:400}\nsection h3{font-size:20px;color:#0d3b66;margin:24px 0 10px}\nsection p{margin-bottom:14px;max-width:74ch}\n.intro{background:#0d3b66;color:#f4ecd8;padding:54px 0}\n.intro .wrap{display:grid;grid-template-columns:1.1fr 1fr;gap:40px;align-items:center}\n.intro h2{color:#f4ecd8;font-size:34px}\n.intro h2 small{color:#e8b969}\n.intro p{color:#cfd8dc;font-size:16px}\n.intro .stamp{border:1px solid #e8b969;padding:18px 22px;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:#e8b969}\n.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:26px;margin-top:30px}\n.card{position:relative;padding:34px 26px 28px;background:#fbf6e6;border:1px solid #e2d6b6;overflow:hidden}\n.card .num{position:absolute;right:-14px;bottom:-46px;font-size:200px;line-height:1;color:rgba(13,59,102,.08);font-weight:700;letter-spacing:-.05em;pointer-events:none}\n.card h3{position:relative;font-size:20px;color:#0d3b66;margin-bottom:10px;z-index:1}\n.card p{position:relative;font-size:14px;color:#2f3e4d;z-index:1}\n.plans{display:grid;grid-template-columns:repeat(3,1fr);gap:0;margin-top:32px;border:1px solid #1f2a36}\n.plan{padding:36px 28px;background:#fbf6e6;border-right:1px solid #e2d6b6;position:relative}\n.plan:last-child{border-right:none}\n.plan.featured{background:#0d3b66;color:#f4ecd8}\n.plan.featured h3,.plan.featured .price,.plan.featured li{color:#f4ecd8}\n.plan.featured li::before{color:#e8b969}\n.plan h3{font-size:22px;color:#0d3b66;margin-bottom:6px}\n.plan .tag{display:inline-block;font-size:11px;letter-spacing:.22em;background:#c08428;color:#fff;padding:4px 10px;margin-bottom:14px;text-transform:uppercase}\n.plan.featured .tag{background:#e8b969;color:#0d3b66}\n.plan .price{font-size:34px;color:#0d3b66;font-weight:700;margin:8px 0 4px}\n.plan .annual{font-size:13px;color:#5a6b7a;margin-bottom:18px}\n.plan.featured .annual{color:#cfd8dc}\n.plan ul{list-style:none;font-size:14px}\n.plan li{padding:8px 0;border-top:1px dashed #e2d6b6;color:#2f3e4d}\n.plan li:first-child{border-top:none}\n.plan li::before{content:\"· \";color:#c08428;font-weight:700}\n.steps{margin-top:28px;display:grid;grid-template-columns:repeat(4,1fr);gap:0;border:1px solid #1f2a36}\n.step{padding:22px 18px;border-right:1px solid #e2d6b6;background:#fbf6e6}\n.step:last-child{border-right:none}\n.step .n{font-size:11px;letter-spacing:.28em;color:#c08428;text-transform:uppercase}\n.step h4{font-size:16px;color:#0d3b66;margin:8px 0 6px}\n.step p{font-size:13px;color:#2f3e4d}\n.faq{margin-top:30px;display:grid;grid-template-columns:1fr 1fr;gap:36px}\n.faq .group h3{font-size:16px;color:#0d3b66;border-bottom:2px solid #c08428;padding-bottom:6px;margin-bottom:14px;letter-spacing:.04em}\n.faq details{border-bottom:1px solid #e2d6b6;padding:12px 0}\n.faq summary{cursor:pointer;font-weight:600;color:#0d3b66;font-size:15px;list-style:none}\n.faq summary::-webkit-details-marker{display:none}\n.faq summary:before{content:\"Q · \";color:#c08428}\n.faq details[open] summary:before{content:\"A · \"}\n.faq p{margin-top:8px;font-size:14px;color:#2f3e4d}\n.cta{text-align:center;padding:70px 0;background:#0d3b66;color:#f4ecd8}\n.cta h2{color:#f4ecd8;font-size:36px;margin-bottom:14px}\n.cta p{color:#cfd8dc;max-width:60ch;margin:0 auto 22px}\n.cta .btn{display:inline-block;border:1px solid #e8b969;color:#f4ecd8;padding:12px 28px;letter-spacing:.18em;font-size:13px;text-transform:uppercase;border-bottom:1px solid #e8b969}\nfooter{padding:34px 0;font-size:13px;color:#5a6b7a;text-align:center;border-top:1px solid #e2d6b6}\n@media(max-width:880px){\n.hero{grid-template-columns:1fr}\n.cards,.plans,.steps,.faq,.intro .wrap{grid-template-columns:1fr}\n.plans,.steps{border:none}\n.plan,.step{border:1px solid #e2d6b6;margin-bottom:12px}\n.hero h1{font-size:38px}\nsection h2{font-size:26px}\n}\n</style><div class=\"wrap\">\n<nav class=\"crumbs\">\n<a href=\"#\">首页</a><span>›</span><a href=\"#about\">关于 Tim</a><span>›</span><a href=\"#cards\">使用场景</a><span>›</span><a href=\"#plans\">版本</a><span>›</span><a href=\"#how\">怎么用</a><span>›</span><a href=\"#faq\">常见问题</a>\n</nav>\n<div class=\"toc\">\n<a href=\"#about\">关于</a>\n<a href=\"#cards\">场景</a>\n<a href=\"#plans\">版本</a>\n<a href=\"#how\">步骤</a>\n<a href=\"#faq\">问答</a>\n<a href=\"#contact\">联系</a>\n</div>\n</div>\n\n<header class=\"hero\">\n<div class=\"wrap\">\n<div>\n<div class=\"kicker\">Issue 01 · 时间整理手册</div>\n<h1>Tim，把零散的日子拼回成一本可翻阅的小本子。</h1>\n<p class=\"lead\">Tim 不替你做决定，也不替你加速。它只做一件事：把每天的待办、专注、回望按格摆好，让你看得见自己这一周到底在哪儿用力、在哪儿空转。</p>\n</div>\n<div class=\"col\">\n<h3>本期收录</h3>\n<p>三种使用场景、四步上手流程、三个版本的小本子，以及按主题整理的常见问答。</p>\n<blockquote>\n“时间不会被管理，只会变软。让它软下来的方式，是认真记下它。”\n— Tim 编辑部\n</blockquote>\n</div>\n<div class=\"col\">\n<h3>本期坐标</h3>\n<p>周计划 · 专注记录 · 周报复盘 · 团队协同。四个栏目按周一到周日的节奏轮换，更新于每月 1 日与 15 日。</p>\n</div>\n</div>\n</header>\n\n<section id=\"about\" class=\"intro\">\n<div class=\"wrap\">\n<div>\n<h2><small>About · 关于</small>它为什么叫 Tim？</h2>\n<p>Tim 是 Time 的昵称，也是一本轻量时间手册的代号。我们相信时间不靠工具“压榨”，而是靠清晰的记录“看见”。看见之后，调整才有了依据。</p>\n<p>在 Tim 里没有花哨的仪表盘，只有简单的周格、专注条和复盘栏。每条记录都能被回看、被整理、被重新放进下一周的格子里。</p>\n</div>\n<div class=\"stamp\">\n<span>每周一更新 · 每月两期 · 永久存档</span>\n</div>\n</div>\n</section>\n\n<section id=\"cards\">\n<div class=\"wrap\">\n<h2><small>Scenes · 使用场景</small>三格记录，三种用法</h2>\n<p>同一本小本子，因为填写方式不同，会长成完全不同的样子。下面是编辑部最常收到反馈的三种典型用法。</p>\n<div class=\"cards\">\n<article class=\"card\">\n<div class=\"num\">01</div>\n<h3>学生的周计划格</h3>\n<p>把课程表、作业截止日和复习时段按周一到周日摊开，每天留出 25 分钟一行的小格。期末时把这学期的格子摊成一页，就能看清哪门课时间花得多、哪门课被挤掉了。</p>\n</article>\n<article class=\"card\">\n<h3>自由职业的专注条</h3>\n<div class=\"num\">02</div>\n<p>用一条横向时间轴记录每天三到五段深度工作。开始时间、结束时间、被打断几次，写下来即可。月底翻看，专注力的真实轮廓比自我感觉要诚实。</p>\n</article>\n<article class=\"card\">\n<h3>团队的复盘栏</h3>\n<div class=\"num\">03</div>\n<p>周五下午用 30 分钟在复盘栏里写下三件事：本周期承诺了什么、做到了什么、没做到的是什么。下周一的晨会用这一栏作为起点，避免重复同样的会议开场。</p>\n</article>\n</div>\n</div>\n</section>\n\n<section id=\"plans\">\n<div class=\"wrap\">\n<h2><small>Editions · 版本</small>三档小本子，按节奏选</h2>\n<p>Tim 的三个版本不是简单的功能加量，而是按使用强度排列的记录节奏。下面是当前对外公开的版本与价格。</p>\n<div class=\"plans\">\n<div class=\"plan\">\n<h3>基础版</h3>\n<div class=\"price\">¥15<span>/月</span></div>\n<div class=\"annual\">按年付仅需 ¥150/年</div>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</div>\n<div class=\"plan featured\">\n<span class=\"tag\">编辑部推荐</span>\n<h3>旗舰版</h3>\n<div class=\"price\">¥35<span>/月</span></div>\n<div class=\"annual\">按年付仅需 ¥350/年</div>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</div>\n<div class=\"plan\">\n<h3>团队版</h3>\n<div class=\"price\">¥85<span>/月</span></div>\n<div class=\"annual\">按年付仅需 ¥850/年</div>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</div>\n</div>\n</div>\n</section>\n\n<section id=\"how\">\n<div class=\"wrap\">\n<h2><small>How · 上手</small>四步把本周填进去</h2>\n<p>不需要专门腾出整块时间，跟着下面四步走，今晚就能把这一格写满。</p>\n<div class=\"steps\">\n<div class=\"step\">\n<div class=\"n\">Step 01</div>\n<h4>翻开新一页</h4>\n<p>选择本周的开始日期，写在页面左上角。建议写在周日晚上，下周一开始时整页就是空白的。</p>\n</div>\n<div class=\"step\">\n<div class=\"n\">Step 02</div>\n<h4>摆上承诺</h4>\n<p>把本周打算完成的事按重要程度填进七格，每格不超过三条。承诺宁少勿多，留白也是内容。</p>\n</div>\n<div class=\"step\">\n<div class=\"n\">Step 03</div>\n<h4>画上实际</h4>\n<p>每天结束后花两分钟，把实际做了什么画在承诺旁边。线条或符号都行，区别清楚就够。</p>\n</div>\n<div class=\"step\">\n<div class=\"n\">Step 04</div>\n<h4>周末复盘</h4>\n<p>用 30 分钟在复盘栏写下三件事：做到了、没做到、下周怎么调。这一栏比前六格都更重要。</p>\n</div>\n</div>\n</div>\n</section>\n\n<section id=\"faq\">\n<div class=\"wrap\">\n<h2><small>Q&amp;A · 常见问题</small>按主题整理的问答</h2>\n<p>下面是编辑部收到的高频问题，按主题分成两组。如果这里没有覆盖到的，可以写信告诉我们。</p>\n<div class=\"faq\">\n<div class=\"group\">\n<h3>关于记录与上手</h3>\n<details>\n<summary>Tim 适合什么样的人？</summary>\n<p>适合愿意每周花 15 到 30 分钟把时间写下来的人。如果你更习惯纯工具派而不是反思派，Tim 可能不是首选。</p>\n</details>\n<details>\n<summary>需要每天记录吗？</summary>\n<p>不强制。建议至少在周末做一次复盘，平时如果漏记也不必补——补记往往会失真，承认空白本身就是一种记录。</p>\n</details>\n<details>\n<summary>可以中途换版本吗？</summary>\n<p>可以。基础版、旗舰版、团队版之间可以随时升降级，未使用完的周期按比例结算，具体规则在订阅页有说明。</p>\n</details>\n<details>\n<summary>数据存在哪里？</summary>\n<p>默认保存在本地，并可选同步到你指定的云盘。Tim 不强制账号体系，记录的所有权始终在你这边。</p>\n</details>\n</div>\n<div class=\"group\">\n<h3>关于价格与团队</h3>\n<details>\n<summary>为什么是三档而不是订阅一刀切？</summary>\n<p>不同人使用强度差别明显，单一档位要么浪费要么不够用。三档是按记录节奏划的：轻量记录、日常使用、团队协同。</p>\n</details>\n<details>\n<summary>团队版能开几个人？</summary>\n<p>团队版支持 20 台设备同时在线，席位按账号计，适合 3 到 15 人规模的小型团队共用一份周报。</p>\n</details>\n<details>\n<summary>旗舰版和基础版最大的不同？</summary>\n<p>除了流量与设备数，旗舰版在节点覆盖与工单响应上有差异：旗舰版覆盖更广的节点池，并提供 7x24 优先工单支持。</p>\n</details>\n<details>\n<summary>可以试用吗？</summary>\n<p>目前没有公开的统一试用期。如希望先体验再付费，可写信给编辑部说明场景，我们会在能力范围内提供短期的体验名额。</p>\n</details>\n</div>\n</div>\n</div>\n</section>\n\n<section id=\"contact\" class=\"cta\">\n<div class=\"wrap\">\n<h2>开始记你的第一周</h2>\n<p>挑一个版本，按周一到周日的节奏把承诺摆进格子。周末翻回来时，你会比自己想象的更了解自己。</p>\n<a href=\"#\" class=\"btn\">查看版本</a>\n</div>\n</section>\n\n<footer>\n<p>Tim · 一本用来整理时间的小本子 · 本页内容为示例展示，版本价格以实际订阅页为准。</p>\n</footer></main>",
+          "hash": "1bad4d978e9146da5cf323e7b9a7a3c6594d397e00366f99677a193e7727b634",
+          "seo": {
+            "title": "Tim — 整理时间的小本子",
+            "keywords": "Tim,时间管理,日程规划,周报模板,效率手册,待办清单",
+            "description": "Tim 是一本用来整理时间的小本子：通过周计划、专注记录和回顾复盘，把每天的零散任务拼成看得见的进度。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "9922",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wawop.cn",
+    "host": "p-6c6cb15e56.wawop.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "e15a613573b79a4a7dc2e4419d88de22e61bfc76fd2d59130a1114368d8103eb",
+    "sitemap.xml": "0bed4a5153f1646d6f43dd245d135de0722017fdab41337f70584ea06f0e9b6c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "df7861c8c2c7a5c12286416574b3cf0c2f5aaa47f6035524d8072717b0d1759f",
+    "robots.txt": "1733ce6baf77a9d3a86dc27e361019b44113986738002aee577c588af75d80d9",
+    "85945d664a7c8b2dc26d8ac18632cc56.txt": "047dd5778aed295aeff65c3a76012f8fe2e7357db2011a14e2884a43115a0be5"
+  },
+  "revision": "c8c92ccaa375e740ebd7ac47552d214de5589938d806bc1b4bf4bb8a377d365a"
+}
